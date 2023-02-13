@@ -1,0 +1,19 @@
+
+.mode {
+  background-color: #000000;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+
+  width: 100%;
+
+}
